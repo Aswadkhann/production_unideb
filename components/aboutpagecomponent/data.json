@@ -1,0 +1,62 @@
+{
+    "about": {
+      "title": "About",
+      "image": "/lapp.jpeg",
+      "links": {
+        "link_1": {
+          "title": "European Union",
+          "url": "https://european-union.europa.eu/index_en"
+        },
+        "link_2":{
+            "title":"University of Debrecen",
+            "url":"https://southasia.edu.unideb.hu/"
+        }
+      },
+      "bullets": {},
+      "text": [
+        {
+          "heading": "",
+          "content": "The University of Debrecen, with a student body of around 28,000, is one of Hungary’s largest higher education institutions. Situated in Debrecen, the largest city outside of Budapest, it serves as a cultural, economic, and scientific center for the region. The university’s fourteen faculties collaborate to provide a multidisciplinary approach, making it a leading research and educational institution in Eastern Hungary. It has received prestigious accolades and its diplomas are widely recognized in the [European Union](link_1). Additionally, its medical programs are accredited by various international organizations and countries."
+        },
+        {
+            "heading":"",
+            "content":"The University of Debrecen has strategically established regional offices around the world to cater to the needs of students in specific areas. In 2017, the university took a significant step by opening its regional office in Pakistan. Recognizing the growing importance of the region, the office was later upgraded to become the regional office for South Asia after six successful years. Presently, the office boasts three branches located in Dubai, Islamabad, and Lahore, ensuring enhanced accessibility and support for students from these areas. These regional offices serve as valuable hubs for prospective students, providing guidance about latest information, and assistance throughout their educational journey at the [University of Debrecen](link_2)."
+        }
+      ]
+    },
+    "history":{
+        "title": "History",
+        "image": "/lapp.jpeg",
+        "links": {
+            "link_1": {
+              "title": "Calvinist",
+              "url": "https://en.wikipedia.org/wiki/Calvinism"
+            },
+            "link_2":{
+                "title":"Communist",
+                "url":"https://www.investopedia.com/terms/c/communism.asp"
+            },
+            "link_3":{
+                "title":"University of Debrecen",
+                "url":"https://southasia.edu.unideb.hu/"
+            },
+            "link_4":{
+                "title":"services",
+                "url":"/services"
+            }
+          },
+          "bullets": {},
+          "text": [
+            {
+              "heading": "",
+              "content": "Debrecen’s higher education has a rich history dating back to the 16th century when the Reformed College of Debrecen was established, serving as a cultural hub and educating prominent figures in Hungary. In the 18th century, the schools of Law and Theology were founded, and later the [Calvinist](link_1) Academy of Humanities and the Hungarian Royal University were established. In 1914, the University of Debrecen was inaugurated, incorporating faculties from the College and adding a medical school. The university went through restructuring under [communist](link_2) control in the 1940s, resulting in changes to various faculties and languages taught. Over the years, the university expanded and merged with other institutions, becoming the University of Debrecen in 2000. Today, it is one of the largest higher education institutions in Hungary and the region, with a diverse student body and a multidisciplinary approach to research and education."
+            },
+            {
+                "heading":"",
+                "content":"The regional office of the [University of Debrecen](link_3) in Pakistan was established in 2017. Recognizing the outstanding performance and dedicated efforts of the office, it was subsequently elevated to the status of the South Asia Regional Office in 2023. Presently, this esteemed office extends its [services](link_4) to students from across South Asia, providing comprehensive support throughout the admission process."
+            }
+          ]
+
+    }
+  }
+  
